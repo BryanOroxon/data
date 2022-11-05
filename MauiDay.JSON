@@ -1,0 +1,8 @@
+[
+    {"Title": "Presentación .Net MAUI" , "Description":"Reseña de .NET MAUI",  "Start": "9:00 A.M.", "End": "9:30 A.M.", "ColorStart": "#8E2DE2", "ColorEnd":"#4A00E0", "Name": "Luis Beltrán, Bryan Oroxón"},
+    {"Title": "Recursos de Diseño para mejorar tus apps", "Description": "Recursos de Diseño para mejorar tus apps", "Start": "9:30 A.M.",  "End": "10:30 A.M.",  "ColorStart": "#8E2DE2", "ColorEnd": "#4A00E0", "Name": "Bryan Oroxón"},
+    {"Title": "Tips for UI Handling in .NET MAUI", "Description": "Tips for UI Handling in .NET MAUI", "Start": "10:30 A.M.",  "End": "11:00 A.M.", "ColorStart": "#8E2DE2","ColorEnd": "#4A00E0", "Name": "Leomaris Reyes"},
+    {"Title": "SQLite-Net, Exploración de escenarios (Parte 1)","Description": "SQLite-Net, Exploración de escenarios (Parte 1)", "Start": "11:00 A.M.","End": "12:00 A.M.","ColorStart": "#8E2DE2", "ColorEnd": "#4A00E0", "Name": "Luis Beltrán, Jésus Gil, Humberto Jaimes"},
+    {"Title": "Binding Libraries con .NET MAUI","Description": "Binding Libraries con .NET MAUI", "Start": "12:00 A.M.", "End": "1:00 P.M.","ColorStart": "#8E2DE2", "ColorEnd": "#4A00E0","Name": "Luis Eduardo Oquendo Pérez"},
+    {"Title": "Un vistazo al .NET MAUI Community Toolkit", "Description": "Un vistazo al .NET MAUI Community Toolkit", "Start": "1:00 P.M.", "End": "2:00 P.M..", "ColorStart": "#8E2DE2",  "ColorEnd": "#4A00E0","Name": "Héctor Pérez "}
+]
