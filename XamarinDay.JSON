@@ -2,7 +2,6 @@
     {"Title": "Versionado con Xamarin" , "Description":"Versionado con Xamarin",  "Start": "9:00 A.M.", "End": "10:00 A.M", "ColorStart": "#8E2DE2", "ColorEnd":"#4A00E0", "Name": "Juan Carlos Ricalde"},
     {"Title": "Xamarin.Forms con Lottie", "Description": "Xamarin.Forms con Lottie", "Start": "10:00 A.M.",  "End": "11:00 A.M.",  "ColorStart": "#00B4DB", "ColorEnd":"#3f5efb", "Name": "Bryan Oroxón"},
     {"Title": "Manejo de una BD de series de tiempo con Xamarin e InfluxDB", "Description": "Manejo de una BD de series de tiempo con Xamarin e InfluxDB", "Start": "11:00 A.M.",  "End": "12:00 A.M.", "ColorStart": "#00B4DB", "ColorEnd":"#3f5efb", "Name": "Carlos Espinoza"},
-    {"Title": "SQLite-Net, Exploración de escenarios (Parte 2)","Description": "SQLite-Net, Exploración de escenarios (Parte 2)", "Start": "1:00pm P.M.","End": "2:00 P.M.","ColorStart": "#00B4DB", "ColorEnd":"#3f5efb","Name": "Israel Pérez Saucedo"}
+    {"Title": "SQLite-Net, Exploración de escenarios (Parte 2)","Description": "SQLite-Net, Exploración de escenarios (Parte 2)", "Start": "1:00pm P.M.","End": "2:00 P.M.","ColorStart": "#00B4DB", "ColorEnd":"#3f5efb","Name": "Israel Pérez Saucedo"},
     {"Title": "Tus validaciones más profesionales con FluentValidation","Description": "Tus validaciones más profesionales con FluentValidation", "Start": "2:15 P.M.","End": "3:30 P.M.","ColorStart": "#00B4DB", "ColorEnd":"#3f5efb","Name": "Luis Beltrán, Jésus Gil, Humberto Jaimes"}
-
 ]
