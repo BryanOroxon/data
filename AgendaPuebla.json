@@ -1,0 +1,13 @@
+[
+    {"Title": "Registro" , "Description":"Registro",  "Start": "8:00 A.M.", "End": "8:45 A.M", "ColorStart": "#8E2DE2", "ColorEnd":"#4A00E0", "Name": "Organizadores"},
+    {"Title": "Inauguración del evento", "Description": "Palabras de bienvenida e Inauguración del evento", "Start": "8:45 A.M.",  "End": "9:00 A.M.",  "ColorStart": "#00B4DB", "ColorEnd":"#3f5efb", "Name": "Organizadores y rector de la universidad"},
+    {"Title": "Keynote" , "Description":"Keynote",  "Start": "9:00 A.M.", "End": "9:30 A.M", "ColorStart": "#8E2DE2", "ColorEnd":"#4A00E0", "Name": "Judith Robles"},
+    {"Title": "Sincronización Offline con SQL Server y .NET MAUI" , "Description":"Sincronización Offline con SQL Server y .NET MAUI",  "Start": "9:30 A.M.", "End": "10:30 A.M", "ColorStart": "#8E2DE2", "ColorEnd":"#4A00E0", "Name": "Humberto Jaimes & Jesús Gil"},
+    {"Title": "Reutilización de componentes Razor en .NET MAUI", "Description": "Reutilización de componentes Razor en .NET MAUI", "Start": "10:30 A.M.",  "End": "11:30 A.M.", "ColorStart": "#00B4DB", "ColorEnd":"#3f5efb", "Name": "Ricardo Josué Pérez"},
+    {"Title": "Diseño de Front-End en .NET MAU" , "Description":"Diseño de Front-End en .NET MAU",  "Start": "11:30 A.M.", "End": "12:30 P.M", "ColorStart": "#8E2DE2", "ColorEnd":"#4A00E0", "Name": "Bryan Oroxón"},
+    {"Title": "Break" , "Description":"Break",  "Start": "12:30 P.M.", "End": "1:00 P.M", "ColorStart": "#8E2DE2", "ColorEnd":"#4A00E0", "Name": "Asistentes"},
+    {"Title": "Apps for Surface Duo (& folds) with Net MAUI" , "Description":"Apps for Surface Duo (& folds) with Net MAUI",  "Start": "1:00 P.M.", "End": "2:00 P.M", "ColorStart": "#8E2DE2", "ColorEnd":"#4A00E0", "Name": "Benjamín Romero"},
+    {"Title": ".NET MAUI","Description": ".NET MAUI", "Start": "2:00pm P.M.","End": "3:00 P.M.","ColorStart": "#00B4DB", "ColorEnd":"#3f5efb","Name": "Cristian González"},
+    {"Title": "Desarrollo de aplicaciones multiplataforma móviles y de escritorio con .NET","Description": "Desarrollo de aplicaciones multiplataforma móviles y de escritorio con .NET", "Start": "3:00pm P.M.","End": "4:00 P.M.","ColorStart": "#00B4DB", "ColorEnd":"#3f5efb","Name": "Miguel Muñoz Serafín"},
+    {"Title": "Cierre del evento","Description": "Cierre del evento", "Start": "4:00 P.M.","End": "5:00 P.M.","ColorStart": "#00B4DB", "ColorEnd":"#3f5efb","Name": "Luis Beltrán, Jésus Gil, Humberto Jaimes"}
+]
