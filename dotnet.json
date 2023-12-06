@@ -27,13 +27,13 @@
         "Number": 5,
         "Name": "Power Apps",
         "Description": "Una plataforma de desarrollo de aplicaciones sin código que permite a los usuarios crear aplicaciones personalizadas sin necesidad de programación.",
-        "Image": "https://smartbridge.com/modernization/services/power-platform-services/"
+        "Image": "https://smartbridge.com/wp-content/uploads/Microsoft-Power-Apps-logo-400x178.png"
     },
     {
         "Number": 6,
         "Name": "Office 365 y Microsoft 365",
         "Description": "Suit de productividad en la nube que incluye aplicaciones como Word, Excel, Outlook, Teams y SharePoint.",
-        "Image": "https://brandemia.org/microsoft-office-cambia-a-microsoft-365-y-asi-sera-su-nuevo-logo"
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microsoft_365_%282022%29.svg/180px-Microsoft_365_%282022%29.svg.png"
     },
     {
         "Number": 7,
@@ -51,7 +51,7 @@
         "Number": 9,
         "Name": "Universal Windows Platform (UWP)",
         "Description": "Plataforma de desarrollo de aplicaciones para Windows 10 que permite la creación de aplicaciones que se ejecutan en una amplia variedad de dispositivos Windows.",
-        "Image": "https://www.nobbot.com/wp-content/uploads/2016/08/UWP-Small-Windows-10.jpg"
+        "Image": "https://cdn.icon-icons.com/icons2/2530/PNG/512/uwp_button_icon_151944.png"
     },
     {
         "Number": 10,
