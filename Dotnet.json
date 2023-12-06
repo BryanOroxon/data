@@ -1,0 +1,98 @@
+[
+    {
+        "Number": 1,
+        "Name": "ASP.NET Core",
+        "Description": "Un framework de desarrollo web de código abierto para construir aplicaciones modernas y escalables en la nube.",
+        "Image": "https://pgroene.files.wordpress.com/2018/02/asp-net-core-logo-1.png?w=664"
+    },
+    {
+        "Number": 2,
+        "Name": "Entity Framework Core",
+        "Description": "Un framework de mapeo objeto-relacional (ORM) que simplifica el acceso a bases de datos relacionales en ASP.NET y otros tipos de aplicaciones.",
+        "Image": "https://media.licdn.com/dms/image/D4E12AQGalPFkgKV-Uw/article-cover_image-shrink_600_2000/0/1675501811822?e=2147483647&v=beta&t=zJt_zaiCTn302Jm5GQFioSnVuwYUpsCGsq7qRhRAYF8"
+    },
+    {
+        "Number": 3,
+        "Name": "Azure",
+        "Description": "La plataforma en la nube de Microsoft que ofrece servicios de computación, almacenamiento, bases de datos, redes y más.",
+        "Image": "https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_azure_logo_icon_168977.png"
+    },
+    {
+        "Number": 4,
+        "Name": "POWER BI",
+        "Description": "Una suite de herramientas de análisis de negocios para visualizar datos y compartir información en toda la organización, o incrustarlas en una aplicación o sitio web.",
+        "Image": "https://cdn-dhhph.nitrocdn.com/YwrWfrMMnPrQoiMcCnngShsqFHLItupA/assets/images/optimized/rev-834113d/pei.com/wp-content/uploads/2016/08/maxresdefaultreduced.jpg"
+    },
+    {
+        "Number": 5,
+        "Name": "Power Apps",
+        "Description": "Una plataforma de desarrollo de aplicaciones sin código que permite a los usuarios crear aplicaciones personalizadas sin necesidad de programación.",
+        "Image": "https://smartbridge.com/modernization/services/power-platform-services/"
+    },
+    {
+        "Number": 6,
+        "Name": "Office 365 y Microsoft 365",
+        "Description": "Suit de productividad en la nube que incluye aplicaciones como Word, Excel, Outlook, Teams y SharePoint.",
+        "Image": "https://brandemia.org/microsoft-office-cambia-a-microsoft-365-y-asi-sera-su-nuevo-logo"
+    },
+    {
+        "Number": 7,
+        "Name": "Power Automate",
+        "Description": "Anteriormente conocido como Microsoft Flow, es un servicio de automatización de flujos de trabajo que ayuda a automatizar tareas entre aplicaciones y servicios en línea.",
+        "Image": "https://prod-1001fx-public.b-cdn.net/misc/1673713754_power-automate-logo.svg"
+    },
+    {
+        "Number": 8,
+        "Name": "Windows Presentation Foundation (WPF)",
+        "Description": "Un framework para crear aplicaciones de escritorio de Windows.",
+        "Image": "https://openautomationsoftware.com/wp-content/uploads/2016/05/WPF_Logo.png"
+    },
+    {
+        "Number": 9,
+        "Name": "Universal Windows Platform (UWP)",
+        "Description": "Plataforma de desarrollo de aplicaciones para Windows 10 que permite la creación de aplicaciones que se ejecutan en una amplia variedad de dispositivos Windows.",
+        "Image": "https://www.nobbot.com/wp-content/uploads/2016/08/UWP-Small-Windows-10.jpg"
+    },
+    {
+        "Number": 10,
+        "Name": "Visual Studio",
+        "Description": "El entorno de desarrollo integrado (IDE) de Microsoft que soporta múltiples lenguajes de programación y plataformas.",
+        "Image": "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2015/05/101017-microsoft-lanza-visual-studio-code-windows-mac-linux.jpg?tf=3840x"
+    },
+    {
+        "Number": 11,
+        "Name": "SQL Server",
+        "Description": "Sistema de gestión de bases de datos relacional de Microsoft.",
+        "Image": "https://i0.wp.com/deepinthecode.com/wp-content/uploads/2019/01/sqlserverlogo.png?fit=1284%2C327&ssl=1"
+    },
+    {
+        "Number": 12,
+        "Name": "SignalR",
+        "Description": "Una biblioteca para agregar funcionalidad en tiempo real a aplicaciones web.",
+        "Image": "https://www.codestoresolutions.com/wp-content/uploads/2020/03/signalr.jpg"
+    },
+    {
+        "Number": 13,
+        "Name": "ML.NET",
+        "Description": "Un framework de aprendizaje automático para desarrolladores .NET.",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Mldotnet.svg"
+    },
+    {
+        "Number": 14,
+        "Name": "Xamarin.Forms",
+        "Description": "Un marco para construir aplicaciones móviles nativas para iOS, Android y Windows desde una única base de código.",
+        "Image": "https://www.pngfind.com/pngs/m/162-1620692_senior-xamarin-forms-developer-microsoft-logo-hd-png.png"
+    },
+    {
+        "Number": 15,
+        "Name": "MAUI",
+        "Description": "Framework para construir aplicaciones multiplataforma (iOS, Android, Windows) con .NET.",
+        "Image": "https://blog.verslu.is/maui/displaying-base64-encoded-images-dotnet-maui/images/icon.png"
+    },
+    {
+        "Number": 16,
+        "Name": "Blazor",
+        "Description": "Framework para construir aplicaciones web interactivas usando C# y .NET en el lado del cliente.",
+        "Image": "https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png"
+    }
+] 
