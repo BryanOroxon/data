@@ -1,0 +1,112 @@
+{
+    {
+        "id": 1,
+        "name": "Monkey D Luffy",
+        "size": "174cm",
+        "age": "19 ans",
+        "bounty": "3.000.000.000",
+        "fruit":"Gum-Gum Fruit",
+        "job": "Captain",
+        "status": "vivant",
+        "image":"https://static.wikia.nocookie.net/onepiece/images/a/af/Monkey_D._Luffy_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest?cb=20200616015904&path-prefix=es"
+    },
+    {
+        "id": 2,
+        "name": "Roronoa Zoro",
+        "size": "181cm",
+        "age": "21 ans",
+        "bounty": "320.000.000",
+        "fruit":"None",
+        "job": "Right-hand man",
+        "status": "living",
+        "image":"https://static.wikia.nocookie.net/onepiece/images/5/56/Roronoa_Zoro_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest/scale-to-width-down/268?cb=20190826160007&path-prefix=es"
+    },
+    {
+        "id": 3,
+        "name": "Nami",
+        "size": "170cm",
+        "age": "20 ans",
+        "bounty": "66.000.000",
+        "fruit":"None",
+        "job": "Navigator",
+        "status": "living",
+        "image":"https://static.wikia.nocookie.net/onepiece/images/0/0c/Nami_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest?cb=20191125191158&path-prefix=es"
+    },
+{
+        "id": 4,
+        "name": "Usopp",
+        "size": "176cm",
+        "age": "19 ans",
+        "bounty": "200.000.000",
+        "fruit":"None",
+        "job": "Sniper",
+        "status": "living",
+        "image":"https://static.wikia.nocookie.net/onepiece/images/9/92/Usopp_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest?cb=20160919181926&path-prefix=es"
+    },
+    {
+        "id": 5,
+        "name": "Sanji",
+        "size": "180cm",
+        "age": "21 ans",
+        "bounty": "330.000.000",
+        "fruit":"None",
+        "job": "Cook",
+        "status": "living",
+        "image":"https://static.wikia.nocookie.net/onepiece/images/6/66/Sanji_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest?cb=20191029181107&path-prefix=es"
+    },
+    {
+        "id": 6,
+        "name": "Tony-Tony Chopper",
+        "size": "90cm",
+        "age": "17 ans",
+        "bounty": "100",
+        "fruit":"Fruit of the Human",
+        "job": "Doctor",
+        "status": "living",
+        "image":"https://static.wikia.nocookie.net/onepiece/images/5/58/Tony_Tony_Chopper_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest?cb=20130629130823&path-prefix=es"
+    },
+    {
+        "id": 7,
+        "name": "Nico Robin",
+        "size": "188cm",
+        "age": "30 ans",
+        "bounty": "130.000.000",
+        "fruit":"Fruit Des Éclosions",
+        "job": "Archaeologist",
+        "status": "living",
+        "image":"https://static.wikia.nocookie.net/onepiece/images/9/9a/Nico_Robin_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest?cb=20200902132447&path-prefix=es"
+    },
+    {
+        "id": 8,
+        "name": "Franky",
+        "size": "240cm",
+        "age": "36 ans",
+        "bounty": "94.000.000",
+        "fruit":"None",
+        "job": "Carpenter",
+        "status": "living",
+        "image":"https://static.wikia.nocookie.net/onepiece/images/a/a5/Franky_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest?cb=20250209193426&path-prefix=es"
+    },
+    {
+        "id": 9,
+        "name": "Brook",
+        "size": "277cm",
+        "age": "90 ans",
+        "bounty": "83.000.000",
+        "fruit":"Fruit of the Resurrection",
+        "job": "Musician",
+        "status": "living",
+        "image":"https://static.wikia.nocookie.net/onepiece/images/0/06/Brook_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest?cb=20200323143522&path-prefix=es"
+    },
+    {
+        "id": 10,
+        "name": "Jinbe",
+        "size": "301cm",
+        "age": "46 ans",
+        "bounty": "438.000.000",
+        "fruit":"None",
+        "job": "Helmsman",
+        "status": "living",
+        "image":"https://static.wikia.nocookie.net/onepiece/images/8/81/Jinbe_Anime_Infobox.png/revision/latest?cb=20170521165842&path-prefix=es"
+    }
+}
