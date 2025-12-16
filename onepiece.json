@@ -1,4 +1,4 @@
-{
+[
     {
         "id": 1,
         "name": "Monkey D Luffy",
@@ -109,4 +109,4 @@
         "status": "living",
         "image":"https://static.wikia.nocookie.net/onepiece/images/8/81/Jinbe_Anime_Infobox.png/revision/latest?cb=20170521165842&path-prefix=es"
     }
-}
+]
